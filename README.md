@@ -4,4 +4,5 @@
 
 removeBG.py ==> 這是圖片去背程式，只能在 colab 上執行
 !pip install rembg ==> 安裝套件
+BeautifyImg.py ==> 照片美化
 
