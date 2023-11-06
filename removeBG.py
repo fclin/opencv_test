@@ -1,4 +1,6 @@
 # 照片去背
+# 只能在 colab 上執行
+
 from rembg import remove
 from PIL import Image
 import cv2
